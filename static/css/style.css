@@ -1,0 +1,10 @@
+h3{
+  color: aqua;
+  font-size: 30px;
+  text-align: center;
+}
+employee_form{
+  padding: 20px;
+  border-radius: 10px;
+  background-color: coral;
+}
